@@ -1,4 +1,4 @@
-package algoBlitz;
+package algoBlitz.arrays;
 
 public class PrintAllPairs {
   public static void main(String[] args) {
