@@ -1,4 +1,4 @@
-package algoBlitz.arrays;
+package algoBlitz;
 
 import java.util.Arrays;
 
