@@ -16,7 +16,6 @@ public class SelectionSort {
     int min = Integer.MAX_VALUE;
     int minIndex = 0;
     int startIndex = 0;
-    int endIndex = arr.length - 1;
     for (int i = 0; i <= arr.length - 1; i++) {
       if (arr[i] < min) {
         min = arr[i];
